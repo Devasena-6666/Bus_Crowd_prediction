@@ -26,7 +26,6 @@ By combining **live GPS bus tracking** with **real-time computer vision–based 
 
 ## 🧠 System Workflow
 
-```mermaid
 flowchart TD
     A[GPS Data from Bus] --> B[Flask Backend]
     C[Camera Input] --> D[Computer Vision Model]
