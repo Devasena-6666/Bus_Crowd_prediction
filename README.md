@@ -1,5 +1,11 @@
 # 🚍 Smart Bus Tracking & Crowd Prediction System
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Flask](https://img.shields.io/badge/Flask-Backend-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![AI](https://img.shields.io/badge/AI-Computer%20Vision-orange)
+
+
 ---
 
 ## 📌 Overview
